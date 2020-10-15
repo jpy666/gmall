@@ -2,140 +2,105 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="768f8169-12c8-4130-a042-4f09cdb1efb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_38.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_38.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_base_1_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_core_1_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_extra_1_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_1_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_2_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_2_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_weekend_1_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/gmall_api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/OmsCartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/OmsCompanyAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/OmsOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/OmsOrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PaymentInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsBaseAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsBaseSaleAttr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsBrand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsProductImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsProductSaleAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsSkuAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsSkuImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsSkuSaleAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/UmsMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/UmsMemberReceiveAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_parent/gmall_parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_parent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/entity/UmsMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/entity/UmsMemberReceiveAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/mapper/UmsMemberReceiveAddressMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_user/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_boot_dubbo_spring_boot_starter_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_boot_dubbo_spring_boot_starter_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_common_util/gmall_common_util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_common_util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_service_util/gmall_service_util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_service_util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/mapper/UmsMemberReceiveAddressMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_user_service/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_user_web/src/main/java/com/bupt/gmall/user/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_web_util/gmall_web_util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_web_util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_3_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/gmall_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/gmall_api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/OmsCartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/OmsCartItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/OmsCompanyAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/OmsCompanyAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/OmsOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/OmsOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/OmsOrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/OmsOrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PaymentInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PaymentInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsBaseAttrValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsBaseAttrValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsBaseSaleAttr.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsBaseSaleAttr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsBrand.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsBrand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsProductImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsProductImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsProductSaleAttrValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsProductSaleAttrValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsSkuAttrValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsSkuAttrValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsSkuImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsSkuImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsSkuSaleAttrValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/PmsSkuSaleAttrValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/UmsMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/UmsMember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/UmsMemberReceiveAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/bean/UmsMemberReceiveAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_api/target/classes/com/bupt/gmall/api/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall_parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall_parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service_user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service_user/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/service_user/target/" />
     <ignored path="$PROJECT_DIR$/gmall_parent/target/" />
     <ignored path="$PROJECT_DIR$/gmall_pi/target/" />
     <ignored path="$PROJECT_DIR$/gmall_api/target/" />
+    <ignored path="$PROJECT_DIR$/gmall_common_util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall_service_util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall_web_util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall_user_service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall_user_web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,41 +144,49 @@
     <session id="-558413331">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="18" />
-          <entry key="properties" value="3" />
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="35" />
+          <entry key="properties" value="6" />
           <entry key="sql" value="1" />
-          <entry key="xml" value="7" />
+          <entry key="xml" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="18" />
-          <entry key="Properties" value="3" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="35" />
+          <entry key="Properties" value="6" />
           <entry key="Scratch" value="1" />
-          <entry key="XML" value="7" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="495" />
-          <entry key="properties" value="256" />
+          <entry key="java" value="556" />
+          <entry key="properties" value="516" />
           <entry key="txt" value="5" />
-          <entry key="xml" value="117" />
+          <entry key="xml" value="727" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="495" />
+          <entry key="JAVA" value="556" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Properties" value="256" />
-          <entry key="XML" value="117" />
+          <entry key="Properties" value="516" />
+          <entry key="XML" value="727" />
         </counts>
       </usages-collector>
     </session>
@@ -221,56 +194,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/UserApplication.java">
+        <entry file="file://$PROJECT_DIR$/gmall_common_util/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="14">
+              <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/impl/UserServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/gmall_user_web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="262">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/entity/UmsMemberReceiveAddress.java">
+        <entry file="file://$PROJECT_DIR$/gmall_api/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="318">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/mapper/UserMapper.java">
+        <entry file="file://$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/GmallUserServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/mapper/UmsMemberReceiveAddressMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="282">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -279,31 +233,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/entity/UmsMember.java">
+        <entry file="file://$PROJECT_DIR$/gmall_web_util/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service_user/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="199">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/service_user/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/gmall_user_web/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="168">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall_user_web/src/main/java/com/bupt/gmall/user/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall_user_web/src/main/java/com/bupt/gmall/user/GmallUserWebApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall_user_service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -311,20 +280,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gmall_parent/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1030">
+              <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -338,6 +295,11 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dubbo</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -356,21 +318,34 @@
       <list>
         <option value="$PROJECT_DIR$/service_user/src/main/resources/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/UserApplication.java" />
-        <option value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/UserService.java" />
         <option value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/entity/UmsMember.java" />
         <option value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/entity/UmsMemberReceiveAddress.java" />
         <option value="$PROJECT_DIR$/gmall_pi/pom.xml" />
-        <option value="$PROJECT_DIR$/gmall_api/pom.xml" />
         <option value="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/UmsMemberReceiveAddress.java" />
         <option value="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/service/UserService.java" />
         <option value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/controller/UserController.java" />
         <option value="$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsBaseAttrInfo.java" />
-        <option value="$PROJECT_DIR$/service_user/pom.xml" />
-        <option value="$PROJECT_DIR$/gmall_parent/pom.xml" />
         <option value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/mapper/UmsMemberReceiveAddressMapper.java" />
         <option value="$PROJECT_DIR$/service_user/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall_service_util/pom.xml" />
+        <option value="$PROJECT_DIR$/service_user/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_web_util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_user_web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall_user_service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/GmallUserServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gmall_api/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_user_service/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/gmall_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_common_util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall_user_web/src/main/java/com/bupt/gmall/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/gmall_user_web/src/main/java/com/bupt/gmall/user/GmallUserWebApplication.java" />
+        <option value="$PROJECT_DIR$/gmall_user_service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall_user_web/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -395,7 +370,17 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gmall_common_util" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gmall_common_util" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -436,11 +421,11 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -451,111 +436,25 @@
             <path>
               <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_api" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_api" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall_parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -563,111 +462,123 @@
             <path>
               <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bupt" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -678,7 +589,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602602889271" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602749964376" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/service_user/src/main/java/com" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/UserService.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -686,15 +597,19 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.44777662" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/UserService.java" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/service_user/src/main/java/com/mysql" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\workplace\gmall\gmall_user_service\src\main\java\com\bupt\gmall\user" />
+      <recent name="G:\workplace\gmall\gmall_user_service\src\main\resources" />
       <recent name="G:\workplace\gmall\gmall_api\src\main\java\com\bupt\gmall\api\bean" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bupt.gmall.user.controller" />
+      <recent name="com.bupt.gmall.user.service" />
       <recent name="com.bupt.gmall.api.service" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
@@ -713,7 +628,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.GmallUserWebApplication">
+    <configuration name="GmallUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall_user_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bupt.gmall.user.GmallUserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUserWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall_user_web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bupt.gmall.user.GmallUserWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service_user" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.bupt.gmall.user.UserApplication" />
@@ -721,6 +650,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.GmallUserServiceApplication" />
+      <item itemvalue="Spring Boot.GmallUserWebApplication" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -733,17 +667,21 @@
       <option name="presentableId" value="Default" />
       <updated>1602578695147</updated>
       <workItem from="1602578698637" duration="12166000" />
-      <workItem from="1602638410181" duration="480000" />
+      <workItem from="1602638410181" duration="6283000" />
+      <workItem from="1602725737390" duration="8226000" />
+      <workItem from="1602743543288" duration="1695000" />
+      <workItem from="1602745275989" duration="4649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12646000" />
+    <option name="totallyTimeSpent" value="33019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26407507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -753,15 +691,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35829663" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32452276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.32452276" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32892805" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.36123347" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.32892805" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49932975" weight="0.3010279" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -770,10 +708,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.26876676" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -786,14 +725,6 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f3cf631b-3e9b-4dee-92e5-9affd45ab3be/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/service_user/src/main/resources/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/UserService.java" />
     <entry file="file://$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/UmsMemberReceiveAddress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-48">
@@ -802,46 +733,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/bean/PmsBaseAttrInfo.java" />
-    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall_api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gmall_api/src/main/java/com/bupt/gmall/api/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/mapper/UmsMemberReceiveAddressMapper.java">
+    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="-32">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service_user/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -853,58 +772,272 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/service_user/service_user.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/entity/UmsMemberReceiveAddress.java">
+    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/mapper/UmsMemberReceiveAddressMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/entity/UmsMember.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="384">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/UserApplication.java">
+    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/entity/UmsMemberReceiveAddress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service_user/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="648">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service_user/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service_user/src/main/java/com/bupt/gmall/user/service/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/service/UserService.java" />
+    <entry file="uml://MAVEN/com.bupt.gmall:gmall_common_util:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.bupt.gmall:gmall_common_util:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.bupt.gmall:gmall_common_util:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.3.4.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.3.4.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.3.4.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.13.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.3.4.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.13.3/org.apache.logging.log4j:log4j-api:jar:2.13.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.3.4.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.30</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/jakarta.annotation:jakarta.annotation-api:jar:1.3.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.3.4.RELEASE/org.yaml:snakeyaml:jar:1.26</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-test:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3/jakarta.activation:jakarta.activation-api:jar:1.2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.assertj:assertj-core:jar:3.16.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.hamcrest:hamcrest:jar:2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-api:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-api:jar:5.6.2/org.opentest4j:opentest4j:jar:1.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-api:jar:5.6.2/org.junit.platform:junit-platform-commons:jar:1.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-params:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-engine:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.vintage:junit-vintage-engine:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.vintage:junit-vintage-engine:jar:5.6.2/org.apiguardian:apiguardian-api:jar:1.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.vintage:junit-vintage-engine:jar:5.6.2/org.junit.platform:junit-platform-engine:jar:1.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.junit.vintage:junit-vintage-engine:jar:5.6.2/junit:junit:jar:4.13</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.mockito:mockito-core:jar:3.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.mockito:mockito-core:jar:3.3.3/net.bytebuddy:byte-buddy:jar:1.10.14</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.mockito:mockito-core:jar:3.3.3/net.bytebuddy:byte-buddy-agent:jar:1.10.14</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.mockito:mockito-core:jar:3.3.3/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.mockito:mockito-junit-jupiter:jar:3.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework:spring-core:jar:5.2.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework:spring-core:jar:5.2.9.RELEASE/org.springframework:spring-jcl:jar:5.2.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.springframework:spring-test:jar:5.2.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.4.RELEASE/org.xmlunit:xmlunit-core:jar:2.7.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.11.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.11.2/com.fasterxml.jackson.core:jackson-core:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.4.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.3.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.3.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.38</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.3.4.RELEASE/org.glassfish:jakarta.el:jar:3.0.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.3.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.38</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework:spring-web:jar:5.2.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework:spring-webmvc:jar:5.2.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework:spring-webmvc:jar:5.2.9.RELEASE/org.springframework:spring-aop:jar:5.2.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.4.RELEASE/org.springframework:spring-webmvc:jar:5.2.9.RELEASE/org.springframework:spring-expression:jar:5.2.9.RELEASE</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.5</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.5/org.apache.httpcomponents:httpcore:jar:4.4.13</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.5/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.commons:commons-lang3:jar:3.7</node>
+            <node x="" y="">commons-beanutils:commons-beanutils:jar:1.9.3</node>
+            <node x="" y="">commons-beanutils:commons-beanutils:jar:1.9.3/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">commons-codec:commons-codec:jar:1.14</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.6.0</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.6.0/org.springframework:spring-context:jar:5.2.9.RELEASE</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.6.0/org.springframework:spring-beans:jar:5.2.9.RELEASE</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.6.0/org.javassist:javassist:jar:3.20.0-GA</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.6.0/org.jboss.netty:netty:jar:3.2.5.Final</node>
+            <node x="" y="">com.101tec:zkclient:jar:0.10</node>
+            <node x="" y="">com.101tec:zkclient:jar:0.10/org.slf4j:slf4j-api:jar:1.7.30</node>
+            <node x="" y="">com.101tec:zkclient:jar:0.10/org.apache.zookeeper:zookeeper:jar:3.4.8</node>
+            <node x="" y="">com.101tec:zkclient:jar:0.10/org.apache.zookeeper:zookeeper:jar:3.4.8/log4j:log4j:jar:1.2.16</node>
+            <node x="" y="">com.101tec:zkclient:jar:0.10/org.apache.zookeeper:zookeeper:jar:3.4.8/jline:jline:jar:0.9.94</node>
+            <node x="" y="">com.101tec:zkclient:jar:0.10/org.apache.zookeeper:zookeeper:jar:3.4.8/io.netty:netty:jar:3.7.0.Final</node>
+            <node x="" y="">com.gitee.reger:spring-boot-starter-dubbo:jar:1.0.10</node>
+            <node x="" y="">com.gitee.reger:spring-boot-starter-dubbo:jar:1.0.10/org.springframework.boot:spring-boot-starter-validation:jar:2.3.4.RELEASE</node>
+            <node x="" y="">com.gitee.reger:spring-boot-starter-dubbo:jar:1.0.10/org.springframework.boot:spring-boot-starter-validation:jar:2.3.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.1.5.Final</node>
+            <node x="" y="">com.gitee.reger:spring-boot-starter-dubbo:jar:1.0.10/org.springframework.boot:spring-boot-starter-validation:jar:2.3.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.1.5.Final/jakarta.validation:jakarta.validation-api:jar:2.0.2</node>
+            <node x="" y="">com.gitee.reger:spring-boot-starter-dubbo:jar:1.0.10/org.springframework.boot:spring-boot-starter-validation:jar:2.3.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.1.5.Final/org.jboss.logging:jboss-logging:jar:3.4.1.Final</node>
+            <node x="" y="">com.gitee.reger:spring-boot-starter-dubbo:jar:1.0.10/org.springframework.boot:spring-boot-starter-validation:jar:2.3.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.1.5.Final/com.fasterxml:classmate:jar:1.5.1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.1373239436619718" x="465.0" y="688.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_parent/gmall_parent.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_service_util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/mapper/UmsMemberReceiveAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_service/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1030">
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_common_util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_web_util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_service/src/main/java/com/bupt/gmall/user/GmallUserServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_web/src/main/java/com/bupt/gmall/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_web/src/main/java/com/bupt/gmall/user/GmallUserWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall_user_web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -929,7 +1062,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.44777662" />
               </list>
             </option>
           </splitter-proportions>
@@ -960,7 +1093,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>service_user</last-edited>
+          <last-edited>gmall_common_util</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -984,7 +1117,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <last-edited>Maven: com.gitee.reger:spring-boot-starter-dubbo:1.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
