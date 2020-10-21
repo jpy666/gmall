@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gmall.iml" filepath="$PROJECT_DIR$/.idea/gmall.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall_api/gmall_api.iml" filepath="$PROJECT_DIR$/gmall_api/gmall_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall_common_util/gmall_common_util.iml" filepath="$PROJECT_DIR$/gmall_common_util/gmall_common_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall_manage_service/gmall_manage_service.iml" filepath="$PROJECT_DIR$/gmall_manage_service/gmall_manage_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall_manage_web/gmall_manage_web.iml" filepath="$PROJECT_DIR$/gmall_manage_web/gmall_manage_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall_parent/gmall_parent.iml" filepath="$PROJECT_DIR$/gmall_parent/gmall_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall_service_util/gmall_service_util.iml" filepath="$PROJECT_DIR$/gmall_service_util/gmall_service_util.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall_user_service/gmall_user_service.iml" filepath="$PROJECT_DIR$/gmall_user_service/gmall_user_service.iml" />
